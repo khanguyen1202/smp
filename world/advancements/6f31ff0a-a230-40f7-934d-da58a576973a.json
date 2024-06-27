@@ -1,0 +1,43 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-06-27 09:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_birch_forest": "2024-06-27 09:26:53 +0000",
+      "minecraft:forest": "2024-06-27 09:27:00 +0000",
+      "minecraft:sparse_jungle": "2024-06-27 09:26:49 +0000",
+      "minecraft:birch_forest": "2024-06-27 09:27:03 +0000",
+      "minecraft:plains": "2024-06-27 10:59:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-06-27 09:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-06-27 10:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-06-27 10:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-06-27 10:59:09 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
+}
